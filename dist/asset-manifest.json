@@ -1,0 +1,16 @@
+{
+  "bundles": {
+    "engine-a-lazy": {
+      "assets": [
+        {
+          "uri": "/engines-dist/engine-a-lazy/assets/engine-vendor.js",
+          "type": "js"
+        },
+        {
+          "uri": "/engines-dist/engine-a-lazy/assets/engine.js",
+          "type": "js"
+        }
+      ]
+    }
+  }
+}

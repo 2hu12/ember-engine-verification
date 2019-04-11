@@ -1,0 +1,9 @@
+{
+  "name": "addon-c",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-babel": "*"
+  }
+}
