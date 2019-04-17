@@ -10,8 +10,7 @@
   },
   "ember-addon": {
     "paths": [
-      "../addon-a",
-      "../addon-b"
+      "../addon-a"
     ]
   }
 }
